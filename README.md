@@ -1,6 +1,6 @@
-### Greetings! Saibur Rahman here.
-#### IT Infrastructure Expert & Cloud Enthusiast
-![IT Infrastructure Expert & Cloud Enthusiast](https://www.linkedin.com/in/saiburm/overlay/background-image/)
+### Hi there 👋, Greetings! Saibur Rahman here.
+## IT Infrastructure Expert & Cloud Enthusiast
+![IT Infrastructure Expert & Cloud Enthusiast](https://scontent.fdac24-3.fna.fbcdn.net/v/t39.30808-6/428620575_24807338305578443_735571286844507995_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=552c78&_nc_eui2=AeEYo6X3RKO250tQtDkKITFB-UkXGXfotCT5SRcZd-i0JOZbE1e7u8Ba-a3SVyaxdM3v2jAloX96ZqDUoIwixhrz&_nc_ohc=utLFdAXACPgAX9B7DQA&_nc_ht=scontent.fdac24-3.fna&oh=00_AfBFSubqrRD6gvSXCO9vgrbvq-wVyEmO06JZcohCTIz4Rw&oe=65DF4FA9)
 
 Experienced IT professional adept at managing complex IT environments, including Windows and Linux servers, as well as cloud infrastructure. Skilled in Active Directory, DNS, DHCP, AWS, and more, with a proven track record of optimizing IT systems for business growth.
 
