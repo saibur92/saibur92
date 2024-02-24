@@ -1,4 +1,4 @@
-### Hi there 👋, I'am Saibur Rahman
+### Greetings! Saibur Rahman here.
 #### IT Infrastructure Expert & Cloud Enthusiast
 ![IT Infrastructure Expert & Cloud Enthusiast](https://www.linkedin.com/in/saiburm/overlay/background-image/)
 
@@ -14,8 +14,6 @@ Skills: Windows Server / Linux Server / AWS / Microsoft Azure/ PHP MySQL
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/saibur92)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/saiburm/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/Saibur Rahman (Soton))  
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=saibur92)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saibur92)](https://github.com/anuraghazra/github-readme-stats)
 
