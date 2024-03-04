@@ -1,15 +1,15 @@
 <h1 align="left">Hi, I'm Saibur Rahman!</h1>
 <h3 align="left">System Administrator, IT Professional, Cloud Solutions Architect.</h3>
 
-👨🏻‍💻 Windows Server Deployment Projects: **Complete Active Directory Domain Services Solution**
+👨🏻‍💻 Windows Server Deployment Projects: Complete Active Directory Domain Services Solution
 
-🐧 Secure and Reliable Linux Server Deployment Framework: **Website Migration and Hosting Solutions: Seamless Transition to a New Platform**
+🐧 Secure and Reliable Linux Server Deployment Framework: Website Migration and Hosting Solutions: Seamless Transition to a New Platform
 
-🌧️ Azure Cloud Migration Strategy and Implementation: **Azure AD Connect Migration and Integration**
+🌧️ Azure Cloud Migration Strategy and Implementation: Azure AD Connect Migration and Integration
 
-☁︎ AWS IAM Policy Governance and Compliance Framework: **Centralized IAM Policy Management Solution**
+☁︎ AWS IAM Policy Governance and Compliance Framework: Centralized IAM Policy Management Solution
 
-📫 How to reach me **saiburm@gmail.com**
+📫 How to reach me saiburm@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
