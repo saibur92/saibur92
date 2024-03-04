@@ -1,6 +1,6 @@
 <h1 align="left">Hi, I'm Saibur Rahman!</h1>
 
-<h3 align = "left;" p style="color:DimGray;">System Administrator | IT Professional | Cloud Solutions Architect | </h3></p>
+<h3 align = "left;" p style="color:DodgerBlue;">System Administrator | IT Professional | Cloud Solutions Architect | </h3></p>
 
 👨🏻‍💻 Windows Server Deployment Projects: Complete Active Directory Domain Services Solution
 
