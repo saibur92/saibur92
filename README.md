@@ -2,6 +2,13 @@
 
 <h2>👨🏻‍💻 Windows Server Deployment Projects:</h2>
 
+🐧 Secure and Reliable Linux Server Deployment Framework: Website Migration and Hosting Solutions
+
+🌧️ Azure Cloud Migration Strategy and Implementation: Azure AD Connect Migration and Integration
+
+☁︎ AWS IAM Policy Governance and Compliance Framework: Centralized IAM Policy Management Solution
+
+
 📫 How to reach me saiburm@gmail.com
 
 <h3 align="left">Connect with me:</h3>
