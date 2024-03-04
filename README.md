@@ -1,11 +1,11 @@
-<h1>I'm Saibur Rahman! <br/><a href="https://github.com/saibur92">System Administrator</a>, <a href="https://www.linkedin.com/in/saiburm/">IT Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">Cloud Solutions Architect</a></h1>
+<h1>I'm Saibur Rahman! <br/><a href="https://github.com/saibur92">System Administrator</a>, <a href="https://www.linkedin.com/in/saiburm/">IT Professional</a>, <a href="https://www.facebook.com/saibur.soton/">Cloud Solutions Architect</a></h1>
 
 <h2>👨🏻‍💻 Windows Server Deployment Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+- <b>Complete Active Directory Domain Services Solution (AlgoExpert)</b>
+  - [Praciting DS & Algos in Python](https://github.com/saibur92/Algorithms-Practice)
+- <b>🐧 Secure and Reliable Linux Server Deployment Framework:</b>
+  - [Website Migration and Hosting Solutions](https://github.com/saibur92/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
@@ -65,7 +65,7 @@ Here are some ideas to get you started:
 
 👨🏻‍💻 Windows Server Deployment Projects: Complete Active Directory Domain Services Solution
 
-🐧 Secure and Reliable Linux Server Deployment Framework: Website Migration and Hosting Solutions: Seamless Transition to a New Platform
+🐧 Secure and Reliable Linux Server Deployment Framework: Website Migration and Hosting Solutions
 
 🌧️ Azure Cloud Migration Strategy and Implementation: Azure AD Connect Migration and Integration
 
