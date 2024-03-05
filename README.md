@@ -1,22 +1,21 @@
 <h1>I'm Saibur Rahman! <br/><a href="https://github.com/saibur92">System Administrator</a>, <a href="https://www.linkedin.com/in/saiburm/">IT Professional</a>, <a href="https://www.facebook.com/saibur.soton/">Cloud Solutions Architect</a></h1>
 
 <h2>👨🏻‍💻 Windows Server Deployment Projects:</h2>
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-- <b>Complete Active Directory Domain Services Solution (Windows Server 2016) (AlgoExpert)</b>
+<b>Complete Active Directory Domain Services Solution (Windows Server 2016) (AlgoExpert)</b>
 <h2>🐧 Secure and Reliable Linux Server Deployment Framework:</h2>
-- <b>Linux Server Virtualization and Hypervisor Deployment (AlgoExpert)</b>
+ <b>Linux Server Virtualization and Hypervisor Deployment (AlgoExpert)</b>
 <h2>🌧️ Azure AD Connect Migration and Integration Project:</h2>
- -<b> On-Premises to Azure AD Migration</b>
+ <b> On-Premises to Azure AD Migration</b>
 <h2>☁︎ AWS IAM Policy Governance and Compliance Framework:</h2>
-   - <b> Centralized IAM Policy Management Solution (AlgoExpert)</b>
+    <b> Centralized IAM Policy Management Solution (AlgoExpert)</b>
 
   
 <h2>📺 YouTube Videos</h2>
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
+- [How to get into Cybersecurity Starting From Zero](https://www.youtube.c/watch?v=a83ASGn_V_s)
+- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.co/watch?v=uHy3oM7NnoU)
+- [How to Create a KeyLogger (C#)](https://www.youtube.co/watch?v=N-L9hklSlNk)
 - [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+- [Is WGU Legit?](https://www.youtube.co/watch?v=E2MwRWxDBkA)
 
 <h2> 🤳 Connect with me:</h2>
 <p align="left">
