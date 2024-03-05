@@ -6,7 +6,9 @@
 <h2>🌧️ Azure AD Connect Migration and Integration Project:</h2>
  <b> On-Premises to Azure AD Migration</b>
 <h2>☁︎ AWS IAM Policy Governance and Compliance Framework:</h2>
-  <b> Centralized IAM Policy Management Solution (AlgoExpert)</b>
+      <b> Centralized IAM Policy Management Solution (AlgoExpert)</b>
+
+  
   
 📫 How to reach me saiburm@gmail.com
 <h3 align="left">Connect with me:</h3>
