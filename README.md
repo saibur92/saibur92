@@ -3,10 +3,11 @@
  <b>Complete Active Directory Domain Services Solution (Windows Server 2016) (AlgoExpert)</b>
 <h2>🐧 Secure and Reliable Linux Server Deployment Framework:</h2>
  <b>Linux Server Virtualization and Hypervisor Deployment (AlgoExpert)</b>
-<h2>🌧️ Azure Cloud Migration Strategy and Implementation:</h2>
- <b>Complete Active Directory Domain Services Solution (Windows Server 2016) (AlgoExpert)</b>
+<h2>🌧️ Azure AD Connect Migration and Integration Project:</h2>
+ <b> On-Premises to Azure AD Migration</b>
 <h2>☁︎ AWS IAM Policy Governance and Compliance Framework:</h2>
   <b> Centralized IAM Policy Management Solution (AlgoExpert)</b>
+  
 📫 How to reach me saiburm@gmail.com
 <h3 align="left">Connect with me:</h3>
 <p align="left">
