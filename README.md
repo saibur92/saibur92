@@ -11,11 +11,11 @@
 
   
 <h2>📺 YouTube Videos</h2>
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.c/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.co/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.co/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.co/watch?v=E2MwRWxDBkA)
+ [How to get into Cybersecurity Starting From Zero](https://www.youtube.c/watch?v=a83ASGn_V_s)
+ [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.co/watch?v=uHy3oM7NnoU)
+ [How to Create a KeyLogger (C#)](https://www.youtube.co/watch?v=N-L9hklSlNk)
+ [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
+ [Is WGU Legit?](https://www.youtube.co/watch?v=E2MwRWxDBkA)
 
 <h2> 🤳 Connect with me:</h2>
 <p align="left">
