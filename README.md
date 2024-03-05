@@ -1,16 +1,15 @@
 <h1>I'm Saibur Rahman! <br/><a href="https://github.com/saibur92">System Administrator</a>, <a href="https://www.linkedin.com/in/saiburm/">IT Professional</a>, <a href="https://www.facebook.com/saibur.soton/">Cloud Solutions Architect</a></h1>
-
 <h2>👨🏻‍💻 Windows Server Deployment Projects:</h2>
-
-🐧 Secure and Reliable Linux Server Deployment Framework: Website Migration and Hosting Solutions
-
-🌧️ Azure Cloud Migration Strategy and Implementation: Azure AD Connect Migration and Integration
-
-☁︎ AWS IAM Policy Governance and Compliance Framework: Centralized IAM Policy Management Solution
-
-
+ <b>Complete Active Directory Domain Services Solution (Windows Server 2016) (AlgoExpert)</b>
+<h2>🐧 Secure and Reliable Linux Server Deployment Framework:</h2>
+ <b>Website Migration and Hosting Solutions</b>
+<h2>🐧 Secure and Reliable Linux Server Deployment Framework:</h2>
+ <b>Linux Server Virtualization and Hypervisor Deployment (AlgoExpert)</b>
+<h2>🌧️ Azure Cloud Migration Strategy and Implementation:</h2>
+ <b>Complete Active Directory Domain Services Solution (Windows Server 2016) (AlgoExpert)</b>
+<h2>☁︎ AWS IAM Policy Governance and Compliance Framework:</h2>
+  <b> Centralized IAM Policy Management Solution (AlgoExpert)</b>
 📫 How to reach me saiburm@gmail.com
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/saiburm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saiburm" height="30" width="40" /></a>
