@@ -2,8 +2,6 @@
 <h2>👨🏻‍💻 Windows Server Deployment Projects:</h2>
  <b>Complete Active Directory Domain Services Solution (Windows Server 2016) (AlgoExpert)</b>
 <h2>🐧 Secure and Reliable Linux Server Deployment Framework:</h2>
- <b>Website Migration and Hosting Solutions</b>
-<h2>🐧 Secure and Reliable Linux Server Deployment Framework:</h2>
  <b>Linux Server Virtualization and Hypervisor Deployment (AlgoExpert)</b>
 <h2>🌧️ Azure Cloud Migration Strategy and Implementation:</h2>
  <b>Complete Active Directory Domain Services Solution (Windows Server 2016) (AlgoExpert)</b>
